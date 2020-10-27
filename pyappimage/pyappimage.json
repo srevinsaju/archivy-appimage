@@ -1,0 +1,7 @@
+{
+	"name": "archivy",
+	"entrypoint": "archivy.run:main",
+	"categories": ["Utility"],
+	"updateinformation": "gh-releases-zsync|srevinsaju|archivy|latest|appimagelint*.AppImage.zsync",
+	"pyappimage_data": ["/root/wow/archivy/static:$APPIMAGE/static", "/root/wow/archivy/templates:$APPIMAGE/templates", "/root/wow/archivy/assets:$APPIMAGE/assets"]
+}

@@ -1,0 +1,8 @@
+name: archivy
+entrypoint: archivy.cli:cli
+categories:
+  - Utility
+data:
+  $CWD/archivy/static: $APPIMAGE/static
+  $CWD/archivy/templates: $APPIMAGE/templates
+
